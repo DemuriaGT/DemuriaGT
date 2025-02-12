@@ -5,7 +5,7 @@ I had experience working on projects related to user behavior analysis, marketin
 I have always been interested in statistics and its practical applications, which led me to the field of data analytics. That's why I'm always open to new challenges and opportunities for growth in data analytics and related fields! 😉
 
 ## Connect with me:
-[![Telegram][1]][2] [![LinkedIn][3]][4] [![Instagram][5]][6]
+[![Telegram][1]][2] [![LinkedIn][3]][4] <!-- [![Instagram][5]][6]-->
 
 ## Languages and Tools:
 ![PostgreSQL][7] ![Python][9] ![Tableau][10]
