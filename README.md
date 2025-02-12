@@ -2,7 +2,7 @@
 
 I'm data analyst with experience in data processing, analysis, and visualization. Proficient in Python, SQL, and Tableau.\
 I had experience working on projects related to user behavior analysis, marketing effectiveness evaluation, and statistical testing.\
-I have always been interested in statistics and its practical applications, which led me to the field of data analytics. That's why I'm always open to new challenges and opportunities for growth in data analytics and related fields! 😉\
+I have always been interested in statistics and its practical applications, which led me to the field of data analytics. That's why I'm always open to new challenges and opportunities for growth in data analytics and related fields! 😉
 
 ## Connect with me:
 [![Telegram][1]][2] [![LinkedIn][3]][4] [![Instagram][5]][6]
