@@ -10,9 +10,7 @@ Always open to new challenges and opportunities for growth in data analytics and
 
 ## Languages and Tools:
 ![PostgreSQL][7] ![SQL][8] ![Python][9] ![Tableau][10]
-* Python (pandas, NumPy, SciPy, matplotlib, seaborn)
-* SQL (PostgreSQL)
-* Tableau
+
 <!--
 **DemuriaGT/DemuriaGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,5 +36,4 @@ Here are some ideas to get you started:
 [7]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [8]: https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1
 [9]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[10]: https://img.shields.io/badge/Tableau?logo=https%3A%2F%2Fimg.icons8.com%2F%3Fsize%3D100%26id%3DBQJc3mm8NGYs%26format%3Dpng%26color%3D000000
-https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=linkedin&logoColor=white
+[10]: https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=linkedin&logoColor=white
