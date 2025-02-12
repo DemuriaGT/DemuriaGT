@@ -9,7 +9,7 @@ Always open to new challenges and opportunities for growth in data analytics and
 [![Telegram][1]][2] [![LinkedIn][3]][4] [![Instagram][5]][6]
 
 ## Languages and Tools:
-![PostgreSQL][7] ![SQL][8] ![Python][9] ![Tableau][10]
+![PostgreSQL][7] ![Python][9] ![Tableau][10]
 
 <!--
 **DemuriaGT/DemuriaGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
