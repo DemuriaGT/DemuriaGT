@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 [7]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [8]: https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1
 [9]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[10]: https://img.shields.io/badge/Tableau
+[10]: https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=linkedin&logoColor=white
