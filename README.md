@@ -6,8 +6,8 @@ Proficient in Python, SQL, and Tableau.\
 Always open to new challenges and opportunities for growth in data analytics and related fields!
 
 ## Connect with me:
-![alt](https://img.icons8.com/?size=100&id=9R1sV3QvY18K&format=png&color=000000)
-[Telegram](https://t.me/demuriagt)
+![alt](https://img.icons8.com/?size=100&id=9R1sV3QvY18K&format=png&color=000000)[id]
+[id]: https://t.me/demuriagt
 
 ## Languages and Tools:
 * Python (pandas, NumPy, SciPy, matplotlib, seaborn)
