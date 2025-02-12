@@ -6,7 +6,7 @@ Proficient in Python, SQL, and Tableau.\
 Always open to new challenges and opportunities for growth in data analytics and related fields!
 
 ## Connect with me:
-[![Twitter][1]][2] [![LinkedIn][3]][4] [![Instagram][5]][6]
+[![Telegram][1]][2] [![LinkedIn][3]][4] [![Instagram][5]][6]
 
 ## Languages and Tools:
 ![HTML5][7] ![CSS3][8] ![Sass][9] ![JavaScript][10] ![Node.js][11] ![PostgreSQL][12] ![MySQL][13] ![MongoDB][14] ![Git][15] ![Terminal][16]
@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 ![HTML5][7] ![CSS3][8] ![Sass][9] ![JavaScript][10] ![Node.js][11] ![PostgreSQL][12] ![MySQL][13] ![MongoDB][14] ![Git][15] ![Terminal][16]
 
 <!-- Ссылки на иконки -->
-[1]: https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
-[2]: https://twitter.com/opa_oz
+[1]: https://img.icons8.com/?size=100&id=9R1sV3QvY18K&format=png&color=000000
+[2]: https://t.me/demuriagt
 [3]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
-[4]: https://linkedin.com/in/opa_oz
+[4]: https://www.linkedin.com/in/giorgi-demuria-316804273/
 [5]: https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white
-[6]: https://instagram.com/opa_oz
+[6]: https://instagram.com/demuriagt
 [7]: https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white
 [8]: https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white
 [9]: https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=sass&logoColor=white
