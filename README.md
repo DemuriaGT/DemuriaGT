@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [3]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
 [4]: https://www.linkedin.com/in/giorgi-demuria-316804273/
 [5]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[6]: mailto:demuriagt@gmail.com
+[6]: demuriagt@gmail.com
 [7]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 [8]: https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1
 [9]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
